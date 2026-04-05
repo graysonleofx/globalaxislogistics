@@ -11,11 +11,11 @@ export default function TopHeader() {
         <div className="flex flex-col md:flex-row gap-2 md:gap-6 items-center text-xs md:text-sm">
           <a href="mailto:contact-us@globalaxislogistics.online" className="inline-flex items-center gap-2 hover:text-cyan-300 transition-colors">
             <i className="ri-mail-line text-cyan-300 text-base"></i>
-            contact-us@globalaxislogistics.com
+            contact@globalaxislogistics.online
           </a>
           <a href="tel:+15156358402" className="inline-flex items-center gap-2 hover:text-cyan-300 transition-colors">
             <i className="ri-phone-line text-cyan-300 text-base"></i>
-            +1 (000) 000-0000
+            +18255726366
           </a>
           <span className="inline-flex items-center gap-2 text-slate-300">
             <i className="ri-time-line text-cyan-300 text-base"></i>

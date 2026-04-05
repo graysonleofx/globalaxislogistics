@@ -77,7 +77,7 @@ export default function Footer() {
               </div> */}
               <div className="flex items-center">
                 <i className="ri-mail-line text-cyan-400 text-lg mr-3"></i>
-                <p className="text-gray-300">contact-us@shipwidelogistics.online</p>
+                <p className="text-gray-300">contact@globalaxislogistics.online</p>
               </div>
               <div className="flex items-center">
                 <i className="ri-time-line text-cyan-400 text-lg mr-3"></i>

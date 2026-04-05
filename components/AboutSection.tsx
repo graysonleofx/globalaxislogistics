@@ -104,7 +104,7 @@ export default function AboutSection() {
                   <p className="text-2xl font-bold">Call Us Any Time</p>
                 </div>
               </div>
-              <p className="text-white text-xl font-semibold">+1 223-000-0000</p>
+              <p className="text-white text-xl font-semibold">+18255726366</p>
             </div>
           </div>
 

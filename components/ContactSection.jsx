@@ -188,7 +188,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-slate-800 mb-1">Email Address</h4>
-                  <p className="text-gray-600">contact-us@globalaxislogistics.online</p>
+                  <p className="text-gray-600">contact@globalaxislogistics.online</p>
                 </div>
               </div>
 
@@ -198,7 +198,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-slate-800 mb-1">WhatsApp</h4>
-                  <p className="text-gray-600">+1 (000) 000-0000</p>
+                  <p className="text-gray-600">+18255726366</p>
                 </div>
               </div>
 
@@ -220,7 +220,7 @@ const ContactSection = () => {
               
               <p className="text-cyan-700 font-semibold text-lg">
                 <i className="ri-mail-line text-cyan-700 text-xl mr-2"></i>
-                contact-us@globalaxislogistics.online
+                contact@globalaxislogistics.online
               </p>
 
             </div>
